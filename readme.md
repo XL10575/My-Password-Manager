@@ -2,6 +2,11 @@
 
 A secure JavaFX-based password management application that implements local encryption and storage of user credentials using Advanced Encryption Standard (AES) cryptographic protocols.
 
+Group member:
+Xiang Luo xxl1323
+Shuai Fu sxf477
+Yankai Xie yxx705
+
 ## Features
 
 - **Cryptographic Security**: Implements AES encryption with Password-Based Key Derivation Function 2 (PBKDF2)
